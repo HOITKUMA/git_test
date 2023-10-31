@@ -1,2 +1,2 @@
-#### git_test
-## 1.git 명령어 
+# git_test
+### 1.git 명령어 
